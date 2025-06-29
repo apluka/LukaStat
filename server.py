@@ -1,5 +1,5 @@
 #Hand crafted by yours truely :)
-#i cant remember any of the things you need to update or install so im sure you can paste it into mrgpt like you losers usuallydo #DADDYDEVLUKA
+#i cant remember any of the things you need to update or install so im sure you can paste it into mrgpt like you losers usually do #DADDYDEVLUKA
 #the ui also needs fixing, there was an error caused by some telnet byte which i think i fixed but fuck knows
 import socket
 import threading
