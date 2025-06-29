@@ -1,0 +1,15 @@
+\033[36m==== Custom CNC UI ====\033[0m
+
+Time: <<$time>>
+Hostname: <<$hostname>>
+Server IP: <<$ip>>
+Uptime: <<$uptime>>
+Incoming traffic: <<$incoming>>
+Outgoing traffic: <<$outgoing>>
+Packets in: <<$pps_in>>
+Packets out: <<$pps_out>>
+Active connections: <<$connections>>
+Recent UDP dump:
+<<$dump>>
+
+\033[35mType 'help' for commands.\033[0m

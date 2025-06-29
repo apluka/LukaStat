@@ -1,0 +1,7 @@
+Available commands:
+ help             Show this help
+ exit             Disconnect
+ clear            Clear screen & show main UI
+ geo <ip>         Check if IP is reachable (fake geo)
+ ping <ip>        ICMP ping to IP
+ tcpping <ip> <port>  TCP connect test to IP:port
